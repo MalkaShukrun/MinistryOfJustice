@@ -1,0 +1,57 @@
+{ 
+    "cases":[
+        {
+            "caseNumber": "108/2024",
+            "caseStatus":"1",
+            "businessOwner": "בדיקה שמירה החלטה",
+            "caseType": "ערר חרבות ברזל",
+            "eligibilityPeriod": "ספטמבר-אוקטובר 2023",
+            "caseOpeningDate": "2023.02.15",
+            "nextDiscussionDate": "2024.12.01",
+            "appealSubmitter": "ישראל ישראלי",
+            "respondentRepresentative": "ציון ציוני",
+            "committeeChairman": "שמואל שמואלי",
+            "publicRepresentative": "לא מונה"
+        },
+        {
+            "caseNumber": "107/2024",
+            "caseStatus":"1",
+            "businessOwner": "תיק בנושא חשוב",
+            "caseType": "תיק חשוב",
+            "eligibilityPeriod": "ספטמבר-אוקטובר 2023",
+            "caseOpeningDate": "2021.02.15",
+            "nextDiscussionDate": "2024.12.01",
+            "appealSubmitter": "משה כהן",
+            "respondentRepresentative": "דוד דוידי",
+            "committeeChairman": "שמואל שמואלי",
+            "publicRepresentative": "לא מונה"
+        },
+        {
+    
+            "caseNumber": "110/2024",
+            "caseStatus":"2",
+            "businessOwner": "בדיקת שמירת החלטה",
+            "caseType": "משפטי",
+            "eligibilityPeriod": "ספטמבר-אוקטובר 2023",
+            "caseOpeningDate": "2022.01.15",
+            "nextDiscussionDate": "2024.12.01",
+            "appealSubmitter": "ישראל ישראלי",
+            "respondentRepresentative": "ציון ציוני",
+            "committeeChairman": "שמואל שמואלי",
+            "publicRepresentative": "לא מונה"
+        },
+        {
+            "caseNumber": "101/2023",
+            "caseStatus":"2",
+            "businessOwner": "בדיקת שמירת החלטה",
+            "caseType": "משפטי",
+            "eligibilityPeriod": "ספטמבר-אוקטובר 2023",
+            "caseOpeningDate": "2022.02.15",
+            "nextDiscussionDate": "2024.12.01",
+            "appealSubmitter": "ישראל לוי",
+            "respondentRepresentative": "ציון ציוני",
+            "committeeChairman": "שמואל כהן",
+            "publicRepresentative": "ישראל ישראלי"
+        }
+    ]
+}

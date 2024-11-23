@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <title>משרד המשפטים</title>
+    <style>
+      #header {
+        height: 64px;
+        background-color: blue;
+        display: flex;
+        align-items: center;
+        color: white;
+        justify-content: center;
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 999;
+      }
+      #content {
+        margin-top: 64px;
+        background-color: #f5f8fa;
+        width: 100%;
+        min-height: 100vh;
+        display: flex;
+        align-items: stretch;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="header">
+      <div>מבחן - משרד המשפטים</div>
+    </div>
+      <div id="content">
+        <div id="root"></div>
+    </div>
+  </body>
+</html>

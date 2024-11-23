@@ -1,0 +1,9 @@
+{
+    "stakeholders": [
+        {"stakeholderName": "John Doe1","stakeholderIdNumber": "201234567","caseNumber": "110/2024" ,"role":1},
+        {"stakeholderName": "John Doe2","stakeholderIdNumber": "209865432","caseNumber": "110/2023","role":2},
+        {"stakeholderName": "John Doe3","stakeholderIdNumber": "201234567","caseNumber": "108/2024","role":1},
+        {"stakeholderName": "John Doe3","stakeholderIdNumber": "201234567","caseNumber": "108/2022","role":3},
+        {"stakeholderName": "John Doe4","stakeholderIdNumber": "203456765","caseNumber": "110/2021","role":3}
+    ]
+}
